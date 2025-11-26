@@ -39,7 +39,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Live link here - https://alok-tech-website.vercel.app/
+## Live link here - https://aloktechvit.vercel.app/
 
 ### `npm run build` fails to minify
 
